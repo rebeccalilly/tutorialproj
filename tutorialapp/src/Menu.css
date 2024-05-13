@@ -1,0 +1,23 @@
+.menu {
+    color: black;
+}
+
+.menuIcon {
+    background-color: #F5E3E0;
+}
+
+.menuIcon:hover {
+    background-color: rgba(252, 252, 252, 0.5);
+}
+
+.menu__item {
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    font-weight: 200;
+}
+
+.menu__item:hover {
+    font-weight: 500;
+    cursor: pointer;
+}

@@ -1,0 +1,23 @@
+.title {
+    color: white;
+}
+
+.title__text1 {
+    margin-left: 40px;
+    margin-top: 180px;
+    font-size: 100px;
+    font-weight: bold;
+}
+
+.title__text2 {
+    margin-left: 40px;
+    font-size: 100px;
+    font-weight: bold;
+}
+
+.title__authors {
+    margin-left: 50px;
+    font-size: 30px;
+    padding-top: 30px;
+    font-weight: 400;
+}
